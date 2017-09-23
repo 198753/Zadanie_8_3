@@ -1,0 +1,25 @@
+{
+  "name": "kodilla-zad-8-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/198753/Zadanie_8_3.git"
+  },
+  "author": "Tom And",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/198753/Zadanie_8_3/issues"
+  },
+  "homepage": "https://github.com/198753/Zadanie_8_3#readme"
+}
